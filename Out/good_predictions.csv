@@ -1,0 +1,4 @@
+filename,predicted_rating,predicted_age_rating,text_length
+dmb_snegiri.txt,7.37,18+,45835
+dovod_kinoscenariy.txt,7.67,18+,153529
+zheleznyj_chelovek_kinoscenariy.txt,7.66,18+,127173
